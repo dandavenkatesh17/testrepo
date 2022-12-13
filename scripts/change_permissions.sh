@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod -R 777 /tmp/venkatesh
+chmod -R 755 /tmp/venkatesh
 
